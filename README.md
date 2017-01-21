@@ -18,10 +18,3 @@ Using in Android Studio
 7. Restart Android Studio.
 8. Clone the repository, import the project, build and run.
 
-
-Warning
--------------
-
-At this moment I am using a local xtend gradle android plugin because the [original plugin 1.0.15](https://github.com/xtext/xtext-gradle-plugin) is not compatible with android gradle plugin 2.2.3.
-
-I already reported this issue and I solved this problem but the original, at this moment, is not updated.
